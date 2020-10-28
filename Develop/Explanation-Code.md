@@ -6,15 +6,13 @@ homework week 14
 
 --PASSWORD AUTHENTICATION--
 
-This app allows users to create an account, log into the account and sign back out securely. All user data is stored in a mysql
-database.
+This app allows users to create an account, log into the account and sign back out securely. All user data is stored in a MySQL database.
 
 ---
 
 --USER STORY--
 
-as someone who wants to safely log in to "X", I want to know my personal details are safely stored so that I dont have to worry
-about using "X".
+as someone who wants to safely log in to "X", I want to know my personal details are safely stored so that I don’t have to worry about using "X".
 
 ---
 
